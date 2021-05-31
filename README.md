@@ -1,7 +1,7 @@
 # CookieClickerUiPath
 Play Cookie Clicker using UiPath!
 
-This automatically clicks the big cookie and autopurchases a set number of items while randomly purchasing the cheapest upgrade ocassionally.
+This automatically clicks the big cookie, the golden cookie and autopurchases a set number of items while randomly purchasing the cheapest upgrade ocassionally.
 
 Assumptions/Notes 
 1. It uses the Edge Browser (Can be changed in CookieClickerSequence.xaml, haven't tried it yet though).
