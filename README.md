@@ -1,5 +1,5 @@
 # CookieClickerUiPath
-Play Cookie Clicker using UiPath!
+Play [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) using [UiPath](https://www.uipath.com/)!
 
 This automatically clicks the big cookie, the golden cookie and autopurchases a set number of items while randomly purchasing the cheapest upgrade ocassionally.
 
